@@ -21,3 +21,10 @@ Implement properties for the component|
 Add tests for the package|
 Upload the package to npm|
 Pimp the README.md out to the max|
+
+
+### Inspirations
+
+[mpaolino/qrlib](https://github.com/mpaolino/qrlib/tree/master/qrlib/static)
+[QR Code Monkey](https://www.qrcode-monkey.com/)
+
