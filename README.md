@@ -14,7 +14,7 @@ This means that 30% of a QR code can be indeterminate and its data determined.
 Task|Complete
 ---|---|
 Create Project Files|
-Implement QR Code generation algorithm|
+Implement QR Code generation algorithm| ✅
 Create files for QR codeword component shapes|
 Implement styles for the component|
 Implement properties for the component|
@@ -25,6 +25,7 @@ Pimp the README.md out to the max|
 
 ### Inspirations
 
-[mpaolino/qrlib](https://github.com/mpaolino/qrlib/tree/master/qrlib/static)
-[QR Code Monkey](https://www.qrcode-monkey.com/)
+QR Code generation: [papnkukn](https://github.com/papnkukn/qrcode-svg) (who got altered [davidshimjs](https://github.com/davidshimjs/qrcodejs)' original code)  
+QR data styling algorithim: [mpaolino](https://github.com/mpaolino/qrlib)  
+QR Code Designs: [QR Code Monkey](https://www.qrcode-monkey.com/)
 
