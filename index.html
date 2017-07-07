@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html>
+<body>
+<img width="220" height="220" src="/Users/GeoffreyNatin/Documents/Screenshots/Screen Shot 2017-07-07 at 21.41.16.png"/>
+<div id="container"/>
+<script src="lib/qrcode.js"></script>
+<script>
+var qrcode = new QRCode("Hello World!");
+var svg = qrcode.svg();
+var a1 = [false,false,true];
+var a2 = [true, false, true];
+var helpme = a1.length==a2.length && a1.every(function(v,i) { return v === a2[i]})
+console.log(helpme);
+document.getElementById("container").innerHTML = svg;
+</script>
+</body>
+</html>
