@@ -1,0 +1,40 @@
+{
+	"name": "react-native-custom-qr-codes",
+	"version": "0.0.1",
+	"scripts": {
+		"start": "node node_modules/react-native/local-cli/cli.js start",
+		"test": "jest"
+	},
+  "keywords": [
+    "react-native",
+    "react-native-component",
+    "react",
+    "mobile",
+    "ios",
+    "android",
+    "qr-code",
+		"custom-qr-code",
+  ],
+  "author": {
+    "name": "Geoffrey Natin",
+    "email": "nating@tcd.ie"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/nating/react-native-custom-qr-codes.git"
+  },
+  "license": "MIT",
+	"dependencies": {
+		"react": "16.0.0-alpha.12",
+		"react-native": "0.46.1"
+	},
+	"devDependencies": {
+		"babel-jest": "20.0.3",
+		"babel-preset-react-native": "2.1.0",
+		"jest": "20.0.4",
+		"react-test-renderer": "16.0.0-alpha.12"
+	},
+	"jest": {
+		"preset": "react-native"
+	}
+}
