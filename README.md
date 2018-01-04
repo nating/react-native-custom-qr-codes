@@ -22,11 +22,12 @@
 # react-native-custom-qr-codes (Under Development)
 
 ### TODO:
-- [x] ~~Implement QR Code generation algorithm~~~
-- [ ] Create component
-- [ ] Implement properties for the component
+- [x] Implement QR Code generation algorithm
+- [x] Create component
+- [x] Implement properties for the component
+- [x] Create first few standard designs
+- [ ] Test every potential usage
 - [ ] Create design file standard
-- [ ] Create first few standard designs
 - [ ] Document usage
 - [ ] Pimp out README.md
 - [ ] Create Project Files
