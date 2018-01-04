@@ -42,7 +42,7 @@
 ## Usage
 
 
-```js
+```jsx
 import QRCode from 'react-native-custom-qr-codes';
 
 <QRCode content='https://i-love-qr-codes.com' size={200}/>
