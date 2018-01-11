@@ -3,10 +3,6 @@
 	"version": "1.0.0",
 	"main": "index.js",
   "description": "A customisable QR code component for React Native applications.",
-	"scripts": {
-		"start": "node node_modules/react-native/local-cli/cli.js start",
-		"test": "jest"
-	},
   "keywords": [
     "react-native",
     "react-native-component",
@@ -32,16 +28,6 @@
   },
   "license": "MIT",
 	"dependencies": {
-		"react": "16.0.0-alpha.12",
-		"react-native": "0.46.1"
-	},
-	"devDependencies": {
-		"babel-jest": "20.0.3",
-		"babel-preset-react-native": "2.1.0",
-		"jest": "20.0.4",
-		"react-test-renderer": "16.0.0-alpha.12"
-	},
-	"jest": {
-		"preset": "react-native"
+		"prop-types": "^15.5.10"
 	}
 }
