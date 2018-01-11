@@ -31,9 +31,8 @@
 - [x] Test every potential usage
 - [x] Create design file standard
 - [x] Document usage
-- [ ] Pimp out README.md
+- [x] Pimp out README.md
 - [ ] Create Project Files
-- [ ] Add tests for the package
 - [ ] Write code contribution guide
 - [ ] Write up design contribution guide
 - [ ] Upload the package to npm
@@ -72,7 +71,31 @@ import QRCode from 'react-native-custom-qr-codes';
 
 ## Examples
 
-.
+### `codeStyle`
+```jsx
+<QRCode codeStyle='square' />
+<QRCode codeStyle='circle' />
+<QRCode codeStyle='dot' />
+<QRCode codeStyle='diamond' />
+<QRCode codeStyle='sharp' />
+```
+<img src='./assets/example-code-styles.png' height='250'/>
+
+### `outerEyeStyle`
+```jsx
+<QRCode outerEyeStyle='square' />
+<QRCode outerEyeStyle='circle' />
+<QRCode outerEyeStyle='diamond' />
+```
+<img src='./assets/example-outer-eye-styles.png' height='250'/>
+
+### `innerEyeStyle`
+```jsx
+<QRCode  innerEyeStyle='square' />
+<QRCode  innerEyeStyle='circle' />
+<QRCode  innerEyeStyle='diamond' />
+```
+<img src='./assets/example-inner-eye-styles.png' height='250'/>
 
 ## Contributing
 
