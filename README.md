@@ -91,9 +91,9 @@ import QRCode from 'react-native-custom-qr-codes';
 
 ### `innerEyeStyle`
 ```jsx
-<QRCode  innerEyeStyle='square' />
-<QRCode  innerEyeStyle='circle' />
-<QRCode  innerEyeStyle='diamond' />
+<QRCode innerEyeStyle='square' />
+<QRCode innerEyeStyle='circle' />
+<QRCode innerEyeStyle='diamond' />
 ```
 <img src='./assets/example-inner-eye-styles.png' height='250'/>
 
