@@ -8,8 +8,8 @@
 </p>
 
 <p align="center">
-  <a href="https://npmjs.org/package/react-native-swiper"><img alt="npm version" src="http://img.shields.io/npm/v/react-native-custom-qr-codes.svg"></a>
-  <a href="https://npmjs.org/package/react-native-swiper"><img alt="npm version" src="http://img.shields.io/npm/dw/react-native-custom/qr-codes.svg"></a>
+  <a href="https://npmjs.org/package/react-native-qr-codes"><img alt="npm version" src="http://img.shields.io/npm/v/react-native-custom-qr-codes.svg"></a>
+  <a href="https://npmjs.org/package/react-native-qr-codes"><img alt="npm version" src="http://img.shields.io/npm/dw/react-native-custom/qr-codes.svg"></a>
 </p>
 
 <p align="center">
