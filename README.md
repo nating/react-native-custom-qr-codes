@@ -26,8 +26,8 @@
 - [x] Create component
 - [x] Implement properties for the component
 - [x] Create first few standard designs
-- [ ] Test every potential usage
-- [ ] Create design file standard
+- [x] Test every potential usage
+- [x] Create design file standard
 - [ ] Document usage
 - [ ] Pimp out README.md
 - [ ] Create Project Files
@@ -53,14 +53,18 @@ import QRCode from 'react-native-custom-qr-codes';
 
 | Prop | Description | Default |
 |---|---|---|
-|**`content`**|The String to be encoded in the QR code. |`Somebody forgot to put 'content' in this QR Code!`|
-|**`size`**|The width & height of the component. |`200`|
-|**`padding`**|The padding between the edge of the component and the QR Code itself. |`4`|
+|**`content`**|The String to be encoded in the QR code. |`'No Content'`|
+|**`codeStyle`**|The particular style of the QR Code. |`square`|
+|**`size`**|The width & height of the component. |`250`|
 |**`color`**|The color of the QR Code. |`black`|
 |**`backgroundColor`**|The background color of the component. |`white`|
-|**`codeStyle`**|The particular style of the QR Code. |`square`|
-|**`logoSize`**|The size of the logo in the QR Code. |`color`|
-|**`errorCorrectionLevel`**|The [error correction level](http://www.qrcode.com/en/about/error_correction.html) of the QR Code. |`H`|
+|**`padding`**|The padding between the edge of the component and the QR Code itself (In terms of QR code piece sizes). |`1`|
+|**`logo`**|The image to be put in the centre of the QR Code. **Must use a higher `ecl` for QR Code to work with a logo. (L->M->Q->H)** |none|
+|**`logoSize`**|The size of the logo in the QR Code. |none|
+|**`linearGradient`**|The two colors to be used for the linear gradient for the foreground. |none|
+|**`gradientDirection`**|The numbers that [define the orientation of the linear gradient](https://developer.mozilla.org/en-US/docs/Web/SVG/Tutorial/Gradients). |`[0,0,170,0]`|
+|**`backgroundImage`**|The image to be used as the filling of the QR Code pieces. |none|
+|**`ecl`**|The [error correction level](http://www.qrcode.com/en/about/error_correction.html) of the QR Code. |`L`|
 
 ## Examples
 
