@@ -15,7 +15,7 @@
     "ios",
     "android",
     "qr-code",
-	  "custom-qr-code",
+	  "custom-qr-code"
   ],
   "author": {
     "name": "Geoffrey Natin",
