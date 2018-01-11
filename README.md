@@ -97,6 +97,25 @@ import QRCode from 'react-native-custom-qr-codes';
 ```
 <img src='./assets/example-inner-eye-styles.png' height='250'/>
 
+### logo
+```jsx
+<QRCode logo={require('./dab.png')} />
+```
+<img src='./assets/example-logo.png' height='250'/>
+
+### linearGradient
+```jsx
+<QRCode linearGradient={['rgb(255,0,0)','rgb(0,255,255)']} />
+<QRCode linearGradient={['rgb(255,0,0)','rgb(0,255,255)']} gradientDirection={[0,170,0,0]} />
+```
+<img src='./assets/example-linear-gradient.png' height='250'/>
+
+### backgroundImage
+```jsx
+<QRCode backgroundImage={require('./galaxy.png')} />
+```
+<img src='./assets/example-background-image.png' height='250'/>
+
 ## Contributing
 
 .
