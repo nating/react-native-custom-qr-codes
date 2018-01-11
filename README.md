@@ -20,7 +20,7 @@
 
 ## Installation
 
-.
+`npm install react-native-custom-qr-codes`
 
 ## Usage
 
