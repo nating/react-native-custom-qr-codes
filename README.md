@@ -81,4 +81,3 @@ import QRCode from 'react-native-custom-qr-codes';
 QR Code generation: [papnkukn](https://github.com/papnkukn/qrcode-svg) (who got altered [davidshimjs](https://github.com/davidshimjs/qrcodejs)' original code)  
 QR data styling algorithim: [mpaolino](https://github.com/mpaolino/qrlib)  
 QR Code Designs: [QR Code Monkey](https://www.qrcode-monkey.com/)
-
