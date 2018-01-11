@@ -1,9 +1,11 @@
 
-<!---
+
 <p align="center">
-  <img alt="react-native-custom-qr-codes" src="http://i.imgur.com/P4cRUgD.png" width="208">
+  <img alt="example-qr-code-1" src="./assets/qr-code-1.png" width="250">
+  <img alt="react-native-custom-qr-codes" src="./assets/qr-code-2.png" width="250">
+  <img alt="example-qr-code-3" src="./assets/qr-code-3.png" width="250">
 </p>
---->
+
 <p align="center">
   Customisable QR Codes for React Native.
 </p>
@@ -28,7 +30,7 @@
 - [x] Create first few standard designs
 - [x] Test every potential usage
 - [x] Create design file standard
-- [ ] Document usage
+- [x] Document usage
 - [ ] Pimp out README.md
 - [ ] Create Project Files
 - [ ] Add tests for the package
@@ -46,7 +48,7 @@
 ```jsx
 import QRCode from 'react-native-custom-qr-codes';
 
-<QRCode content='https://i-love-qr-codes.com' size={200}/>
+<QRCode content='https://reactnative.com'/>
 ```
 
 ### Properties
