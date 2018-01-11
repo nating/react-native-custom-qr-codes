@@ -1,22 +1,20 @@
 
+# react-native-custom-qr-codes
+
 <p align="center">
-  <img alt="example-qr-code-1" src="./assets/qr-code-1.png" width="250">
-  <img alt="react-native-custom-qr-codes" src="./assets/qr-code-2.png" width="250">
-  <img alt="example-qr-code-3" src="./assets/qr-code-3.png" width="250">
+  <img alt="example-qr-code-1" src="https://raw.githubusercontent.com/nating/react-native-custom-qr-codes/HEAD/assets/qr-code-1.png" width="250">
+  <img alt="example-qr-code-1" src="https://raw.githubusercontent.com/nating/react-native-custom-qr-codes/HEAD/assets/qr-code-2.png" width="250">
+  <img alt="example-qr-code-3" src="https://raw.githubusercontent.com/nating/react-native-custom-qr-codes/HEAD/assets/qr-code-3.png" width="250">
+</p>
+
+<p align="center">
+  <a href="https://npmjs.org/package/react-native-swiper"><img alt="npm version" src="http://img.shields.io/npm/v/react-native-custom-qr-codes.svg"></a>
+  <a href="https://npmjs.org/package/react-native-swiper"><img alt="npm version" src="http://img.shields.io/npm/dm/react-native-custom/qr-codes.svg"></a>
 </p>
 
 <p align="center">
   Customisable QR Codes for React Native.
 </p>
-
-<!---
-<p align="center">
-  <a href="https://npmjs.org/package/react-native-swiper"><img alt="npm version" src="http://img.shields.io/npm/v/react-native-swiper.svg?style=flat-square"></a>
-  <a href="https://npmjs.org/package/react-native-swiper"><img alt="npm version" src="http://img.shields.io/npm/dm/react-native-swiper.svg?style=flat-square"></a>
-</p>
---->
-
-# react-native-custom-qr-codes
 
 ## Installation
 
@@ -100,11 +98,6 @@ import QRCode from 'react-native-custom-qr-codes';
 ## Contributing
 
 Take a look at [CONTRIBUTING.md](./CONTRIBUTING.md) 😁
-
-### TODO:
-- [ ] Write code contribution guide
-- [ ] Write up design contribution guide
-- [ ] Upload the package to npm
 
 ## License
 
