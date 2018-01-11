@@ -1,5 +1,4 @@
 
-
 <p align="center">
   <img alt="example-qr-code-1" src="./assets/qr-code-1.png" width="250">
   <img alt="react-native-custom-qr-codes" src="./assets/qr-code-2.png" width="250">
@@ -12,30 +11,12 @@
 
 <!---
 <p align="center">
-  <a href="http://standardjs.com/"><img alt="JavaScript Style Guide" src="https://img.shields.io/badge/code%20style-standard-brightgreen.svg?style=flat-square"></a>
   <a href="https://npmjs.org/package/react-native-swiper"><img alt="npm version" src="http://img.shields.io/npm/v/react-native-swiper.svg?style=flat-square"></a>
   <a href="https://npmjs.org/package/react-native-swiper"><img alt="npm version" src="http://img.shields.io/npm/dm/react-native-swiper.svg?style=flat-square"></a>
-  <a href="https://github.com/leecade/react-native-swiper/pulls?q=is%3Apr+is%3Aclosed"><img alt="PR Stats" src="https://img.shields.io/issuestats/i/github/leecade/react-native-swiper.svg?style=flat-square"></a>
-  <a href="https://github.com/leecade/react-native-swiper/issues?q=is%3Aissue+is%3Aclosed"><img alt="Issue Stats" src="https://img.shields.io/issuestats/p/github/leecade/react-native-swiper.svg?style=flat-square"></a>
-  <a href="https://gitter.im/leecade/react-native-swiper?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge"><img alt="Join the chat" src="https://badges.gitter.im/leecade/react-native-swiper.svg"></a>
 </p>
 --->
 
-# react-native-custom-qr-codes (Under Development)
-
-### TODO:
-- [x] Implement QR Code generation algorithm
-- [x] Create component
-- [x] Implement properties for the component
-- [x] Create first few standard designs
-- [x] Test every potential usage
-- [x] Create design file standard
-- [x] Document usage
-- [x] Pimp out README.md
-- [ ] Create Project Files
-- [ ] Write code contribution guide
-- [ ] Write up design contribution guide
-- [ ] Upload the package to npm
+# react-native-custom-qr-codes
 
 ## Installation
 
@@ -118,8 +99,13 @@ import QRCode from 'react-native-custom-qr-codes';
 
 ## Contributing
 
-.
+Take a look at [CONTRIBUTING.md](./CONTRIBUTING.md) 😁
+
+### TODO:
+- [ ] Write code contribution guide
+- [ ] Write up design contribution guide
+- [ ] Upload the package to npm
 
 ## License
 
-[MIT License](http://opensource.org/licenses/mit-license.html). © Geoffrey Natin 2018
+[MIT License](http://opensource.org/licenses/mit-license.html). © Geoffrey Natin 2017
