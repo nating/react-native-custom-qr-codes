@@ -5,7 +5,7 @@
 </p>
 --->
 <p align="center">
-  A Customisable QR Codes for React Native.
+  Customisable QR Codes for React Native.
 </p>
 
 <!---
@@ -54,16 +54,18 @@ import QRCode from 'react-native-custom-qr-codes';
 | Prop | Description | Default |
 |---|---|---|
 |**`content`**|The String to be encoded in the QR code. |`'No Content'`|
-|**`codeStyle`**|The particular style of the QR Code. |`square`|
+|**`codeStyle`**|The style of the centre QR Code pieces. |`square`|
+|**`outerEyeStyle`**|The style of the outside of the QR Code's eyes. |`square`|
+|**`innerEyeStyle`**|The style of the inside of the QR Code's eyes. |`square`|
 |**`size`**|The width & height of the component. |`250`|
 |**`color`**|The color of the QR Code. |`black`|
 |**`backgroundColor`**|The background color of the component. |`white`|
 |**`padding`**|The padding between the edge of the component and the QR Code itself (In terms of QR code piece sizes). |`1`|
-|**`logo`**|The image to be put in the centre of the QR Code. **Must use a higher `ecl` for QR Code to work with a logo. (L->M->Q->H)** |none|
+|**`logo`**|The image to be put in the centre of the QR Code.<br>**Must use a higher `ecl` for QR Code to work with a logo. <br>(L->M->Q->H)** |none|
 |**`logoSize`**|The size of the logo in the QR Code. |none|
 |**`linearGradient`**|The two colors to be used for the linear gradient for the foreground. |none|
 |**`gradientDirection`**|The numbers that [define the orientation of the linear gradient](https://developer.mozilla.org/en-US/docs/Web/SVG/Tutorial/Gradients). |`[0,0,170,0]`|
-|**`backgroundImage`**|The image to be used as the filling of the QR Code pieces. |none|
+|**`backgroundImage`**|The image to be used as the filling of the QR Code pieces.<br>**The Eyes can not be styled if a background image is used.**|none|
 |**`ecl`**|The [error correction level](http://www.qrcode.com/en/about/error_correction.html) of the QR Code. |`L`|
 
 ## Examples
