@@ -6,10 +6,10 @@
   <img alt="example-qr-code-1" src="https://raw.githubusercontent.com/nating/react-native-custom-qr-codes/HEAD/assets/qr-code-2.png" width="250">
   <img alt="example-qr-code-3" src="https://raw.githubusercontent.com/nating/react-native-custom-qr-codes/HEAD/assets/qr-code-3.png" width="250">
 </p>
-
+	
 <p align="center">
   <a href="https://npmjs.org/package/react-native-custom-qr-codes"><img alt="npm version" src="http://img.shields.io/npm/v/react-native-custom-qr-codes.svg"></a>
-  <a href="https://npmjs.org/package/react-native-custom-qr-codes"><img alt="npm version" src="http://img.shields.io/npm/dw/react-native-custom-qr-codes.svg"></a>
+  <a href="https://npmjs.org/package/react-native-custom-qr-codes"><img alt="npm downloads per week" src="http://img.shields.io/npm/dw/react-native-custom-qr-codes.svg"></a>
 </p>
 
 <p align="center">
