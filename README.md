@@ -24,7 +24,7 @@
 
 
 ```jsx
-import QRCode from 'react-native-custom-qr-codes';
+import { QRCode } from 'react-native-custom-qr-codes';
 
 <QRCode content='https://reactnative.com'/>
 ```
