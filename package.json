@@ -28,6 +28,7 @@
   },
   "license": "MIT",
 	"dependencies": {
-		"prop-types": "^15.5.10"
+		"prop-types": "^15.5.10",
+    "react-native-svg": "^6.2.0"
 	}
 }
