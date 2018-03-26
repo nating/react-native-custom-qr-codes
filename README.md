@@ -8,8 +8,6 @@
 </p>
 	
 <p align="center">
-  <a href="https://npmjs.org/package/react-native-custom-qr-codes"><img alt="npm version" src="http://img.shields.io/npm/v/react-native-custom-qr-codes.svg"></a>
-  <a href="https://npmjs.org/package/react-native-custom-qr-codes"><img alt="npm downloads per week" src="http://img.shields.io/npm/dw/react-native-custom-qr-codes.svg"></a>
 </p>
 
 <p align="center">
@@ -20,7 +18,8 @@
 
 `npm install react-native-custom-qr-codes`
 
-If you are not using Expo, you will also have to manually link the [react-native-svg library](https://github.com/react-native-community/react-native-svg). Follow [the instructions here](https://github.com/react-native-community/react-native-svg#manual) to do this.
+If you are not using Expo, you will also have to manually link the [react-native-svg library](https://github.com/react-native-community/react-native-svg).  
+Follow [the instructions here](https://github.com/react-native-community/react-native-svg#manual) to do this.
 
 ## Usage
 
