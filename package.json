@@ -1,7 +1,7 @@
 {
-	"name": "react-native-custom-qr-codes",
-	"version": "1.0.0",
-	"main": "index.js",
+  "name": "react-native-custom-qr-codes",
+  "version": "1.0.1",
+  "main": "index.js",
   "description": "A customisable QR code component for React Native applications.",
   "keywords": [
     "react-native",
@@ -11,7 +11,7 @@
     "ios",
     "android",
     "qr-code",
-	  "custom-qr-code"
+    "custom-qr-code"
   ],
   "author": {
     "name": "Geoffrey Natin",
@@ -27,8 +27,10 @@
     "url": "https://github.com/nating/react-native-custom-qr-codes/issues"
   },
   "license": "MIT",
-	"dependencies": {
-		"prop-types": "^15.5.10",
+  "dependencies": {
+    "prop-types": "^15.5.10"
+  },
+  "peerDependencies": {
     "react-native-svg": "^6.2.0"
-	}
+  }
 }
