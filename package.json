@@ -1,6 +1,6 @@
 {
   "name": "react-native-custom-qr-codes",
-  "version": "1.0.1",
+  "version": "2.0.0",
   "main": "index.js",
   "description": "A customisable QR code component for React Native applications.",
   "keywords": [
