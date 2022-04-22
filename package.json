@@ -32,5 +32,8 @@
   },
   "peerDependencies": {
     "react-native-svg": "^6.2.0"
+  },
+  "devDependencies": {
+    "@types/react-native": "^0.67.5"
   }
 }
