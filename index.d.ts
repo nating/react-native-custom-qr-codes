@@ -28,4 +28,5 @@ export function QRCode({
   logoSize?: number;
   ecl?: "L" | "M" | "Q" | "H";
   svg?: any;
+  isRTL?: boolean;
 });
