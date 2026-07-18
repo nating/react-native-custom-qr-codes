@@ -13,11 +13,6 @@
     "qr-code",
     "custom-qr-code"
   ],
-  "author": {
-    "name": "Geoffrey Natin",
-    "email": "nating@tcd.ie",
-    "url": "https://github.com/nating"
-  },
   "homepage": "https://github.com/eddyoc/react-native-custom-qr-codes-expo",
   "repository": {
     "type": "git",

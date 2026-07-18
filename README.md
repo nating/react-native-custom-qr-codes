@@ -4,9 +4,9 @@
 <p>A <i>react-native-custom-qr-codes</i> fork that plays ball nicely with Expo
 
 <p align="center">
-  <img alt="example-qr-code-1" src="https://raw.githubusercontent.com/nating/react-native-custom-qr-codes/HEAD/assets/qr-code-1.png" width="250">
-  <img alt="example-qr-code-1" src="https://raw.githubusercontent.com/nating/react-native-custom-qr-codes/HEAD/assets/qr-code-2.png" width="250">
-  <img alt="example-qr-code-3" src="https://raw.githubusercontent.com/nating/react-native-custom-qr-codes/HEAD/assets/qr-code-3.png" width="250">
+  <img alt="example-qr-code-1" src="https://raw.githubusercontent.com/eddyoc/react-native-custom-qr-codes-expo/HEAD/assets/qr-code-1.png" width="250">
+  <img alt="example-qr-code-1" src="https://raw.githubusercontent.com/eddyoc/react-native-custom-qr-codes-expo/HEAD/assets/qr-code-2.png" width="250">
+  <img alt="example-qr-code-3" src="https://raw.githubusercontent.com/eddyoc/react-native-custom-qr-codes-expo/HEAD/assets/qr-code-3.png" width="250">
 </p>
 	
 <p align="center">
@@ -104,4 +104,4 @@ Take a look at [CONTRIBUTING.md](./CONTRIBUTING.md) 😁
 
 ## License
 
-[MIT License](http://opensource.org/licenses/mit-license.html). © Geoffrey Natin 2017
+[MIT License](http://opensource.org/licenses/mit-license.html). © Contributors 2017

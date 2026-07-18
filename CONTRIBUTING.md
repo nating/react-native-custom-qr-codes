@@ -11,4 +11,4 @@ If you have found an issue, create an issue on the repo- but make sure to:
 
 If you would like to request a feature, then by all means and we will try to implement it if reasonable.
 
-If you would like to submit a feature request or report a bug, we encourage you to first look through the [issues](https://github.com/nating/react-native-custom-qr-codes/issues) and [pull requests](https://github.com/nating/react-native-custom-qr-codes/pulls) before filing a new issue.
+If you would like to submit a feature request or report a bug, we encourage you to first look through the [issues](https://github.com/eddyoc/react-native-custom-qr-codes-expo/issues) and [pull requests](https://github.com/eddyoc/react-native-custom-qr-codes-expo/pulls) before filing a new issue.
